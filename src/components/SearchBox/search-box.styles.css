@@ -1,0 +1,13 @@
+input[type=search] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  outline: none;
+  border: 1px solid #DDD;
+  font-size: 18px;
+  padding: 0 5px;
+  margin: 18px 0;
+  height: 72px;
+  width: 244px;
+}
+
